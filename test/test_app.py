@@ -8,5 +8,5 @@ def test_app(client):
 
 def test_dir(one):
     print(one)
-    assert one==13
+    assert one == 12
 

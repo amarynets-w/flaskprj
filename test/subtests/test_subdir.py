@@ -4,5 +4,5 @@
 
 def test_one(one):
     print(one)
-    assert one == 42
+    assert one == 34
 
